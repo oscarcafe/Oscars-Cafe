@@ -1,0 +1,14 @@
+<!doctype css>
+
+body {
+  background-image: url("https://image.freepik.com/free-photo/top-view-roasted-coffee-beans-with-copy-space_23-2148251565.jpg");
+}
+
+h1 {
+  text-shadow: 2px 2px 5px blue;
+  font-family: "Times New Roman", Times, serif;
+}
+
+img {
+  float: right;
+}
